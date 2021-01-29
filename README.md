@@ -16,3 +16,6 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
     4. Push it to the Github.
 4. Yayy!! You have sucessfully pushed file to Github. :)
  
+- Github Account
+- Github desktop
+- VS Code
