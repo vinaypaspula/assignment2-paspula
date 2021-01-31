@@ -20,6 +20,10 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
 - Github desktop
 - VS Code
 
+![Github.com](images/gh.jpg)
+![Github desktop](images/gd.jpg)
+![VS Code](images/vs.jpg)
+
 [About me](https://github.com/vinaypaspula/assignment2-paspula/blob/main/AboutMe.md)
 
 # Washington, D.C.
