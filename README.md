@@ -33,6 +33,12 @@ Washington, DC, the U.S. capital, is a compact city on the Potomac River, border
 |National Air and Space Museum| 3 | $300
 |National Zoological Park | 7 | $250
 
+![The Lincoln Memorial](images/lm.jpg)
+![National Mall and Veterans Memorials](images/nm.jpg)
+![National Air and Space Museum](images/sm.jpg)
+![National Zoological Park](images/zp.jpg)
+
+
 ---
 # My favorite quotes
 
