@@ -33,3 +33,9 @@ Washington, DC, the U.S. capital, is a compact city on the Potomac River, border
 |National Air and Space Museum| 3 | $300
 |National Zoological Park | 7 | $250
 
+---
+# My favorite quotes
+
+>I have only made this letter longer because I have not had the time to make it shorter. -*Blaise Pascal*
+
+>What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have. -*Haruki Murakami*
