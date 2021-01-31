@@ -39,3 +39,21 @@ Washington, DC, the U.S. capital, is a compact city on the Potomac River, border
 >I have only made this letter longer because I have not had the time to make it shorter. -*Blaise Pascal*
 
 >What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have. -*Haruki Murakami*
+
+---
+# Code fencing
+>Vim (/vɪm/; a contraction of Vi IMproved) is a clone, with additions, of Bill Joy's vi text editor program for Unix. Vim's author, Bram Moolenaar, based it on the source code for a port of the Stevie editor to the Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Vim is free and open-source software and is released under a license that includes some charityware clauses, encouraging users who enjoy the software to consider donating to children in Uganda. The license is compatible with the GNU General Public License through a special clause allowing distribution of modified copies "under the GNU GPL version 2 or any later version". [Read more](https://en.wikipedia.org/wiki/Vim_(text_editor))
+
+```
+" This is the Hello World program in Vim script.
+echo "Hello, world!"
+
+" This is a simple while loop in Vim script.
+let i = 1
+while i < 5
+  echo "count is" i
+  let i += 1
+endwhile
+unlet i
+```
+[Link for the code](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)
