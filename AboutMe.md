@@ -5,17 +5,3 @@ I live in the present with an eye on the future. My foremost dream in life is to
 
 [Link to the image](https://github.com/vinaypaspula/assignment2-paspula/blob/main/my.jpg)
 ![Vinay Picture](my.jpg)
-
----
-
-# Washington, D.C.
-
-Washington, DC, the U.S. capital, is a compact city on the Potomac River, bordering the states of Maryland and Virginia. It’s defined by imposing neoclassical monuments and buildings – including the iconic ones that house the federal government’s 3 branches: the Capitol, White House and Supreme Court. 
-
-| Location | Spending Hours | Expenditure |
-| :---:    | :---:          | :---:       |
-| The Lincoln Memorial | 4 | $200
-|National Mall and Veterans Memorials| 6 | $150
-|National Air and Space Museum| 3 | $300
-|National Zoological Park | 7 | $250
- 
